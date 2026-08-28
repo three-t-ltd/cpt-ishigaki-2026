@@ -1,0 +1,98 @@
+[
+  {
+    "name": "hero",
+    "file": "img/hero.jpg",
+    "caption": "川平湾（石垣島）",
+    "src": "Kabira Bay (100907385).jpeg",
+    "lic": "CC BY 3.0",
+    "author": "Firas Kraïem",
+    "page": "https://commons.wikimedia.org/wiki/File:Kabira_Bay_(100907385).jpeg",
+    "w": 1400,
+    "h": 933,
+    "bytes": 258154
+  },
+  {
+    "name": "fusaki",
+    "file": "img/fusaki.jpg",
+    "caption": "フサキビーチ",
+    "src": "Fusaki-Beach Ishigaki Okinawa Japan.jpg",
+    "lic": "CC BY 2.0",
+    "author": "Flickr user: \t\n\najari Japan https://www.flickr.com/people/ajari/",
+    "page": "https://commons.wikimedia.org/wiki/File:Fusaki-Beach_Ishigaki_Okinawa_Japan.jpg",
+    "w": 1400,
+    "h": 930,
+    "bytes": 133764
+  },
+  {
+    "name": "kayak",
+    "file": "img/kayak.jpg",
+    "caption": "シーカヤック（沖縄）",
+    "src": "Sea kayaking Zamami Okinawa.jpg",
+    "lic": "CC BY 2.0",
+    "author": "Roger Braunstein",
+    "page": "https://commons.wikimedia.org/wiki/File:Sea_kayaking_Zamami_Okinawa.jpg",
+    "w": 1280,
+    "h": 854,
+    "bytes": 186534
+  },
+  {
+    "name": "sunset",
+    "file": "img/sunset.jpg",
+    "caption": "石垣島のビーチ",
+    "src": "Ishigaki's Sunset beach (52116054672).jpg",
+    "lic": "CC BY 2.0",
+    "author": "Raita Futo from Tokyo, Japan",
+    "page": "https://commons.wikimedia.org/wiki/File:Ishigaki%27s_Sunset_beach_(52116054672).jpg",
+    "w": 1400,
+    "h": 933,
+    "bytes": 164587
+  },
+  {
+    "name": "banna",
+    "file": "img/banna.jpg",
+    "caption": "石垣島の高台からの眺望",
+    "src": "Ishigaki island panorama (52117331009).jpg",
+    "lic": "CC BY 2.0",
+    "author": "Raita Futo from Tokyo, Japan",
+    "page": "https://commons.wikimedia.org/wiki/File:Ishigaki_island_panorama_(52117331009).jpg",
+    "w": 1400,
+    "h": 684,
+    "bytes": 194932
+  },
+  {
+    "name": "cave",
+    "file": "img/cave.jpg",
+    "caption": "石垣島鍾乳洞",
+    "src": "Ishigaki Stalactite Cave 05.jpg",
+    "lic": "CC0",
+    "author": "AsPJT",
+    "page": "https://commons.wikimedia.org/wiki/File:Ishigaki_Stalactite_Cave_05.jpg",
+    "w": 1400,
+    "h": 700,
+    "bytes": 232515
+  },
+  {
+    "name": "mall",
+    "file": "img/mall.jpg",
+    "caption": "ユーグレナモール",
+    "src": "Ishigaki euglena mall 2012.jpg",
+    "lic": "CC BY-SA 3.0",
+    "author": "Paipateroma",
+    "page": "https://commons.wikimedia.org/wiki/File:Ishigaki_euglena_mall_2012.jpg",
+    "w": 1200,
+    "h": 1600,
+    "bytes": 306252
+  },
+  {
+    "name": "food",
+    "file": "img/food.jpg",
+    "caption": "沖縄の郷土料理",
+    "src": "Okinawan cuisine set.jpg",
+    "lic": "CC BY-SA 4.0",
+    "author": "Yuet Man Lee",
+    "page": "https://commons.wikimedia.org/wiki/File:Okinawan_cuisine_set.jpg",
+    "w": 1400,
+    "h": 839,
+    "bytes": 225426
+  }
+]
